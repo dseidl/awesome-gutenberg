@@ -12,6 +12,7 @@
 - [Official Resources](#official-resources)
 - [Blocks](#blocks)
 - [Scaffold](#scaffold)
+- [Tutorials](#tutorials)
 
 # Resources
 
@@ -28,6 +29,10 @@
 ### Scaffold
 
 - [WP-CLI Command](https://developer.wordpress.org/cli/commands/scaffold/block/)
+
+### Tutorials
+
+- [Gutenberg development with Zac Gordon](https://gutenberg.courses/development/)
 
 <br/>
 <br/>
