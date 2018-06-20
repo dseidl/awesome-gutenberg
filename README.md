@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img width="400" src="./gutenberg.svg" alt="logo of Gutenberg">
+  <img width="200" src="./gutenberg.svg" alt="logo of Gutenberg">
   <br>
   <br>
 </p>
