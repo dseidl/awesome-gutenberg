@@ -32,10 +32,14 @@
 ### Blocks
 
 - [Google Map](https://github.com/pantheon-systems/google-map-gutenberg-block)
+- [WDS-Blocks](https://github.com/WebDevStudios/WDS-Blocks) - WebDevStudios library of Gutenberg blocks
+- [Co-Blocks](https://github.com/thatplugincompany/coblocks) - Blocks by CoBlocks
+- [Advanced Gutenberg Blocks](https://github.com/maximebj/advanced-gutenberg-blocks) - Blocks by maximebj
+- [Atomic Blocks](https://github.com/ArrayHQ/atomic-blocks) - Blocks by ArrayHQ
 
 ### Scaffold
 
-- [Create Guten Block](https://github.com/ahmadawais/create-guten-block)
+- [Create Guten Block](https://github.com/ahmadawais/create-guten-block) - A zero-configuration developer toolkit for building Gutenberg block plugins
 - [WP-CLI Command](https://developer.wordpress.org/cli/commands/scaffold/block/)
 
 ### Tutorials
