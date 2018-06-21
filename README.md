@@ -51,7 +51,7 @@
 - [Gutenberg, or the Ship of Theseus](https://matiasventura.com/post/gutenberg-or-the-ship-of-theseus/) - Matías Ventura Bausero (October 2017)
 - [We Called It Gutenberg for a Reason](https://ma.tt/2017/08/we-called-it-gutenberg-for-a-reason/) - Matt Mullenweg (August 2017)
 - [How Gutenberg is Changing WordPress Development](https://riad.blog/2017/10/06/how-gutenberg-is-changing-wordpress-development/) - Riad Benguella (October 2017)
-
+- [Gutenberg blocks made easy](http://jschof.com/gutenberg-blocks/gutenberg-blocks-made-easy/) - Jim Schofield (April 2018)
 
 <br/>
 <br/>
