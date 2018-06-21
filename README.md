@@ -10,9 +10,11 @@
 > A curated list of awesome things related to Gutenberg
 
 - [Official Resources](#official-resources)
+- [External Resources](#external-resources)
 - [Blocks](#blocks)
 - [Scaffold](#scaffold)
 - [Tutorials](#tutorials)
+- [Articles](#articles)
 
 # Resources
 
@@ -21,6 +23,11 @@
 - [Official Handbook](https://wordpress.org/gutenberg/handbook/)
 - [GitHub Repo](https://github.com/WordPress/gutenberg)
 - [Editor Technical Overview](https://make.wordpress.org/core/2017/01/17/editor-technical-overview/)
+
+### External Resources
+
+- [Gutenberg Times](https://gutenbergtimes.com/category/updates/)
+- [Gutenberg Hub](http://gutenberghub.com/)
 
 ### Blocks
 
@@ -34,6 +41,13 @@
 ### Tutorials
 
 - [Gutenberg development with Zac Gordon](https://gutenberg.courses/development/)
+
+### Articles
+
+- [Gutenberg, or the Ship of Theseus](https://matiasventura.com/post/gutenberg-or-the-ship-of-theseus/) - Matías Ventura Bausero (October 2017)
+- [We Called It Gutenberg for a Reason](https://ma.tt/2017/08/we-called-it-gutenberg-for-a-reason/) - Matt Mullenweg (August 2017)
+- [How Gutenberg is Changing WordPress Development](https://riad.blog/2017/10/06/how-gutenberg-is-changing-wordpress-development/) - Riad Benguella (October 2017)
+
 
 <br/>
 <br/>
