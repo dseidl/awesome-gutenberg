@@ -12,6 +12,7 @@
 - [Official Resources](#official-resources)
 - [External Resources](#external-resources)
 - [Blocks](#blocks)
+- [Components](#components)
 - [Scaffold](#scaffold)
 - [Tutorials](#tutorials)
 - [Articles](#articles)
@@ -38,6 +39,9 @@
 - [Co-Blocks](https://github.com/thatplugincompany/coblocks) - Blocks by CoBlocks
 - [Advanced Gutenberg Blocks](https://github.com/maximebj/advanced-gutenberg-blocks) - Blocks by maximebj
 - [Atomic Blocks](https://github.com/ArrayHQ/atomic-blocks) - Blocks by ArrayHQ
+
+### Components
+- [Human Made Gutenberg Tools](https://github.com/humanmade/hm-gutenberg-tools) – Components by Human Made
 
 ### Scaffold
 
