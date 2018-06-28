@@ -26,6 +26,7 @@
 - [Editor Technical Overview](https://make.wordpress.org/core/2017/01/17/editor-technical-overview/)
 - [Showcasing Gutenberg Starter Theme](https://github.com/WordPress/gutenberg-starter-theme)
 - [Block-based Gutenberg Design with Sketch](https://github.com/Automattic/gutenberg-themes-sketch)
+- [Gutenberg Examples](https://github.com/WordPress/gutenberg-examples)
 
 ### External Resources
 
