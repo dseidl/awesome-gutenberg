@@ -41,6 +41,7 @@
 - [Advanced Gutenberg Blocks](https://github.com/maximebj/advanced-gutenberg-blocks) - Blocks by maximebj
 - [Atomic Blocks](https://github.com/ArrayHQ/atomic-blocks) - Blocks by ArrayHQ
 - [WPGraphQL Gutenberg Block](https://github.com/wp-graphql/graphql-gutenblock-example)
+- [Extensibility Workshop](https://github.com/youknowriad/gutenberg-extensibility-workshop)
 
 ### Components
 - [Human Made Gutenberg Tools](https://github.com/humanmade/hm-gutenberg-tools) – Components by Human Made
