@@ -54,6 +54,7 @@
 ### Tutorials
 
 - [Gutenberg development with Zac Gordon](https://gutenberg.courses/development/)
+- [Gutenberg theming with Zac Gordon](https://gutenberg.courses/theming/)
 
 ### Articles
 
