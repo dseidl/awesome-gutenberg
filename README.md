@@ -32,6 +32,7 @@
 
 - [Gutenberg Times](https://gutenbergtimes.com/category/updates/)
 - [Gutenberg Hub](http://gutenberghub.com/)
+- [Gutenberg Block Library](https://editorblockswp.com/library)
 
 ### Blocks
 
@@ -42,6 +43,7 @@
 - [Atomic Blocks](https://github.com/ArrayHQ/atomic-blocks) - Blocks by ArrayHQ
 - [WPGraphQL Gutenberg Block](https://github.com/wp-graphql/graphql-gutenblock-example)
 - [Extensibility Workshop](https://github.com/youknowriad/gutenberg-extensibility-workshop)
+- [Editor Blocks](https://github.com/editorblocks/editor-blocks)
 
 ### Components
 - [Human Made Gutenberg Tools](https://github.com/humanmade/hm-gutenberg-tools) – Components by Human Made
