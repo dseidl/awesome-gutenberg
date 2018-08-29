@@ -57,6 +57,7 @@
 
 - [Gutenberg development with Zac Gordon](https://gutenberg.courses/development/)
 - [Gutenberg theming with Zac Gordon](https://gutenberg.courses/theming/)
+- [Coding Blocks for WordPress Gutenberg by Jeremy McPeak](https://code.tutsplus.com/courses/coding-blocks-for-wordpress-gutenberg)
 
 ### Articles
 
