@@ -16,6 +16,7 @@
 - [Scaffold](#scaffold)
 - [Tutorials](#tutorials)
 - [Articles](#articles)
+- [Gutenberg in the wild (Case Studies)](#case-studies)
 
 # Resources
 
@@ -65,6 +66,10 @@
 - [We Called It Gutenberg for a Reason](https://ma.tt/2017/08/we-called-it-gutenberg-for-a-reason/) - Matt Mullenweg (August 2017)
 - [How Gutenberg is Changing WordPress Development](https://riad.blog/2017/10/06/how-gutenberg-is-changing-wordpress-development/) - Riad Benguella (October 2017)
 - [Gutenberg blocks made easy](http://jschof.com/gutenberg-blocks/gutenberg-blocks-made-easy/) - Jim Schofield (April 2018)
+
+### Case Studies
+
+- [Mimimi](https://wptavern.com/how-a-munich-based-game-studio-is-using-wordpress-and-gutenberg-to-power-its-website)
 
 <br/>
 <br/>
