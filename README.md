@@ -45,6 +45,7 @@
 - [WPGraphQL Gutenberg Block](https://github.com/wp-graphql/graphql-gutenblock-example)
 - [Extensibility Workshop](https://github.com/youknowriad/gutenberg-extensibility-workshop)
 - [Editor Blocks](https://github.com/editorblocks/editor-blocks)
+- [WooCommerce Products Block](https://github.com/woocommerce/woocommerce-gutenberg-products-block)
 
 ### Components
 - [Human Made Gutenberg Tools](https://github.com/humanmade/hm-gutenberg-tools) – Components by Human Made
