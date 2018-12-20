@@ -47,8 +47,10 @@
 - [Editor Blocks](https://github.com/editorblocks/editor-blocks)
 - [WooCommerce Products Block](https://github.com/woocommerce/woocommerce-gutenberg-products-block)
 - [Gallery Block](https://github.com/thatplugincompany/block-gallery)
+- [Ghostkit Blocks](https://github.com/nk-o/ghostkit)
 
 ### Components
+
 - [Human Made Gutenberg Tools](https://github.com/humanmade/hm-gutenberg-tools) – Components by Human Made
 
 ### Scaffold
