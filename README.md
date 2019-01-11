@@ -70,6 +70,7 @@
 - [We Called It Gutenberg for a Reason](https://ma.tt/2017/08/we-called-it-gutenberg-for-a-reason/) - Matt Mullenweg (August 2017)
 - [How Gutenberg is Changing WordPress Development](https://riad.blog/2017/10/06/how-gutenberg-is-changing-wordpress-development/) - Riad Benguella (October 2017)
 - [Gutenberg blocks made easy](http://jschof.com/gutenberg-blocks/gutenberg-blocks-made-easy/) - Jim Schofield (April 2018)
+- [Experiments in test-driven development of a Gutenberg block](https://www.theaveragedev.com/test-driven-development-of-a-gutenberg-block-1/) - theAverageDev (December 2018)
 
 ### Case Studies
 
